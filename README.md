@@ -2,6 +2,8 @@
 
 A feature-rich, real-time messaging application built with the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io. This project features secure user authentication, real-time messaging, and online presence indicators, demonstrating a full-stack development workflow from backend API to a responsive frontend.
 
+**[Live Demo](https://fullstack-chat-app-orcin.vercel.app/)**
+
 ## Key Features
 
 - **Real-Time Messaging:** Instant, bidirectional communication between users powered by Socket.io.
